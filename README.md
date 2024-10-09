@@ -1,6 +1,5 @@
 # Bonifácio
 
-
 #### Olá! eu sou Juliana Boniácio 👋🏽
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&log=instagram&logoColor=white)](https://www.instagram.com/bonifacio__oliveira/?next=%2F)
